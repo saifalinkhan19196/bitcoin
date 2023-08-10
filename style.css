@@ -242,6 +242,10 @@ position: absolute;
 
 .middle {
    background-image: url(mid.jpg);
+  background-attachment: fixed;
+   height: 100%;
+   
+   
 
    
 
@@ -551,7 +555,7 @@ display: flex;
 .footer{
    
    background-image: url(footer.jpg);
-   hight:100%;
+   
    width: 100%;
    background-size: cover;
    background-position: center;
